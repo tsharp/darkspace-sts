@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkSpace.Sts.Web", "DarkSpace.Sts.Web\DarkSpace.Sts.Web.csproj", "{510DAD6C-2061-45F1-B47B-60077B303A5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkSpace.Sts.Web.Tests", "DarkSpace.Sts.Web.Tests\DarkSpace.Sts.Web.Tests.csproj", "{D4D76960-7FFD-4C2A-A450-88EF8490C461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{510DAD6C-2061-45F1-B47B-60077B303A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510DAD6C-2061-45F1-B47B-60077B303A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510DAD6C-2061-45F1-B47B-60077B303A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510DAD6C-2061-45F1-B47B-60077B303A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D76960-7FFD-4C2A-A450-88EF8490C461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D76960-7FFD-4C2A-A450-88EF8490C461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D76960-7FFD-4C2A-A450-88EF8490C461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D76960-7FFD-4C2A-A450-88EF8490C461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F25B4652-E5A3-4DF6-842A-5911248DEEE9}
+	EndGlobalSection
+EndGlobal
